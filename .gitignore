@@ -1,0 +1,18 @@
+# Jupyter automatic checkpoints
+**/.ipynb_checkpoints/
+
+# Python cache and virtual environments
+**/__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+
+# Mistakenly saved web page; the actual CSV dataset is included instead
+Module 06 - Project Challenge/medical-insurance-price-prediction.htm
+
